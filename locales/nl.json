@@ -52,7 +52,7 @@
         },
         "sleep": {
             "text": "Ga slapen",
-            "voice": "Ga Slappen",
+            "voice": "Ga Slapen",
             "description": "Spiegel in slaapstand"
         },
         "wake_up": {
@@ -67,11 +67,11 @@
         },
         "map_show": {
             "text": "Laat een kaart zien",
-            "voice": "Laat(me) een kaart zien",
+            "voice": "Laat (me) een kaart zien",
             "description": "Laat je een kaart zien van je huidige locatie"
         },
         "map_location": {
-            "text": "Show map of ________",
+            "text": "Laat een kaart zien van ________",
             "voice": "Laat (me een) kaart zien van *location",
             "description": "Laat een kaart zien van de genoemde locatie"
         },
@@ -102,7 +102,7 @@
         },
         "video_stop": {
             "text": "Stop de video",
-            "voice": "stop (de) video",
+            "voice": "Stop (de) video",
             "description": "Stops the playback of video content."
         },
 
