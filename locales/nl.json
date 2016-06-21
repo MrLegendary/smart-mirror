@@ -6,7 +6,7 @@
         "time_to" : "Tijd naar {{destination}}: "
     },
     "reminders": {
-        "empty": "Empty list"
+        "empty": "Maak lijst leeg"
     },
     "timer": {
       "one": "Een",
